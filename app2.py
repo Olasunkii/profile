@@ -146,7 +146,7 @@ def home():
         st.write("Testimonials:")
         st.write("Kolawole Ridwan, Team Lead (Team 11) Explore AI Academy")
         st.markdown(
-            "> \"Ollasunkanmi's technical skills and dedication to delivering high-quality code were impressive. He consistently exceeded our expectations.\""
+            "> \"Olasunkanmi's technical skills and dedication to delivering high-quality code were impressive. He consistently exceeded our expectations.\""
         )
 
 
