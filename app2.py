@@ -266,7 +266,7 @@ def download():
         cv_base64 = base64.b64encode(cv_data).decode("utf-8")
         cv_size = len(cv_data)
     
-    st.markdown(f"<h2 style='font-size: 20px; font-weight: bold;'>Download CV</h2>", unsafe_allow_html=True)
+    st.title("Download my CV")
     st.markdown(f"<p style='font-size: 16px;'>Click the button below to download my CV.</p>", unsafe_allow_html=True)
     
     # Create a download link for the CV
